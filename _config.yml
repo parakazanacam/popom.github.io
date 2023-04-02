@@ -9,7 +9,7 @@ description: >
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://parakazanacam.github.io/popom.github.io/feed'
+url:              'https://parakazanacam.github.io/popom.github.io'
 baseurl:          '/jekyll-gitbook'
 rss:              RSS
 
